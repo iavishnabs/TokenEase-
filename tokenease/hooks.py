@@ -1,7 +1,7 @@
 app_name = "tokenease"
 app_title = "tokenease"
-app_publisher = "avishna"
-app_description = "Token Management system"
+app_publisher = "Avishna B S"
+app_description = "Token Management System"
 app_email = "avishna@gmail.com"
 app_license = "mit"
 
